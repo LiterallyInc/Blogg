@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SajberRoyale]]></title><description><![CDATA[Blogg för SajberRoyale. Gymnasiearbete för Alexander P, Alfred, Oscar, Melwin, Fabian L och Samuel.]]></description><link>https://sajber.me/gymnasiearbete/</link><image><url>https://sajber.me/gymnasiearbete//logos/logo-48.png</url><title>SajberRoyale</title><link>https://sajber.me/gymnasiearbete/</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Mon, 31 Aug 2020 18:15:23 GMT</lastBuildDate><atom:link href="https://sajber.me/gymnasiearbete//rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2020. All rights reserved.]]></copyright><item><title><![CDATA[Markdown tutorial]]></title><description><![CDATA[Alright så på denna blogg skriver vi alla inlägg i markdown, vilket är ett relativt enkelt språk ofta använt på forum, readme-filer…]]></description><link>https://sajber.me/gymnasiearbete//markdown-tutorial</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//markdown-tutorial</guid><category><![CDATA[markdown]]></category><pubDate>Sun, 30 Aug 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Alright så på denna blogg skriver vi alla inlägg i &lt;strong&gt;markdown&lt;/strong&gt;, vilket är ett relativt enkelt språk ofta använt på forum, readme-filer, dokumentationer etc. &lt;/p&gt;
+&lt;p&gt;Grunderna ni behöver kunna är:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Titlar&lt;/strong&gt;: En rad med 1-6 hashtags (#) framför blir en titel:&lt;/p&gt;
+&lt;p&gt;# 1 hashtag&lt;/p&gt;
+&lt;h1 id=&quot;1-hashtag&quot;&gt;&lt;a href=&quot;#1-hashtag&quot; aria-label=&quot;1 hashtag permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1 hashtag&lt;/h1&gt;
+&lt;p&gt;### 3 hashtags&lt;/p&gt;
+&lt;h3 id=&quot;3-hashtags&quot;&gt;&lt;a href=&quot;#3-hashtags&quot; aria-label=&quot;3 hashtags permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3 hashtags&lt;/h3&gt;
+&lt;p&gt;##### 5 hashtags&lt;/p&gt;
+&lt;h5 id=&quot;5-hashtags&quot;&gt;&lt;a href=&quot;#5-hashtags&quot; aria-label=&quot;5 hashtags permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;5 hashtags&lt;/h5&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Bilder&lt;/strong&gt;: Gå till &lt;a href=&quot;https://github.com/LiterallyInc/Gymnasiearbete/content/images&quot;&gt;https://github.com/LiterallyInc/Gymnasiearbete/content/images&lt;/a&gt; och lägg till era bilder där med &quot;Add file&quot; knappen, sen länka till bilderna i er markdown såhär:&lt;/p&gt;
+&lt;p&gt;![Image](../content/images/BILDNAMN)&lt;/p&gt;
+&lt;p&gt;Till exempel så kommer ![Image](../content/images/natsuki.png) bli till:&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 690px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/157e3651996a97f22f741332f125b970/f570d/natsuki.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAADn0lEQVQ4y72UTUxjVRTHb4GNcaFxohsTE0cTFy5MTGbjTmM0Lly46KjRhGTiYtw5M2LUMaMzBjogUASkwjBKfVI60+mQFlpb7EyhHUpLbaFOv+bRQr8/KJR+vPa9196+I70ks4EGVt7NObnnvt/7/8897yH0f6x7535AoF8lefCKDEV7qLYtCdWeGLgtau79c16KkkN3TgaTvCVGKSlF8nj3b4fqMG8jUPCHkf1c3/HAh53XSdzqmSTxa3SqI3Bx7MzG97+/nxhUvdjcq0ybCDR0WX480PCtBLkvD5H82um3n0hPqGw1rRnyUxpIj6hLtbuW15u1MmVsO3EPg5dG25vx0cXRTmZEDUkp1chKFTyeNEJJbhxu1oS5B+3+r24cD3N9JkHZQSUBRq7cHM4NUBBTKGuJmdl6oV8NmX6VgfQQAAUuTBwP1J/tQrt/aomdjasTn+SsZgCcbCQMOpwfVEO8W2l73O/PfzmZ5a3eKQIMdcne4JcswCWcAu9YxIxMB7nxueVXnnqNXEpUqkLuTLE1yP+HFoXiOdR1YOngod4ZbWFiGoq3ZPzeiAYK43MegJ+aBxCIv0ORjVhrINRXSNxlWNLDBsCrWaubji+oAcJmzBhswIRTPN7eeblZz8e2iZNi0Hw0sBqKoY2dClHm3Baez5W5GPAN4LlSnU3HgV2jcXlf+l4dlgeH7E82z61506iR87ZWyRbyRF2R9t6sFiqQzJUYaC4BhFpmFzwmDw9VFopB9yUyj5FgR0sYl3QTC2xq7c1G3pcuTN0ZCNzzVvb2eWlOEJLlmpC5YQBsXlrDxUCo/Gj5JeIs6hDVJ7WHgXxmnQC5hPs94MJb6R5qflO+BDxAYxuDsJmtCOkBNeCllVKjRMfKHtMLREDULmqpUsiFiWVgQ91V7X1w9N2t72EOditVwR2MguvCGAbfOhR1JgMrHj1FgCOzItmHw0fcsuYBiv6sJCozvbfE2TkjE9AvCn6rXQgtO4RNy6qQWbDgnWkdeDql/4Jh8TnyV7oqF4Fcd0QPdUZEXxsnufPdrmdTWs0qBCOAbT6M7T5ouOj9AXdDZIzK01/8Gg1/M/kO+aK+HG+jzw8fbbkwcxsxfjjIVX/Ng4sGzrqOWYdXqK48xOAJQU6hX3CKr0tcn/afIS//qE/k+rj3MKwu16OSYuFgfKy+jhJlWOdnTFDWWHBJ+bdQUBjroLFBql9BUc90Ps2MqtuTs/eR84MfHzP+A5JeUPHMJOfAAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Image&quot;
+        title=&quot;Image&quot;
+        src=&quot;/static/157e3651996a97f22f741332f125b970/36727/natsuki.png&quot;
+        srcset=&quot;/static/157e3651996a97f22f741332f125b970/acf4b/natsuki.png 173w,
+/static/157e3651996a97f22f741332f125b970/fc834/natsuki.png 345w,
+/static/157e3651996a97f22f741332f125b970/36727/natsuki.png 690w,
+/static/157e3651996a97f22f741332f125b970/f570d/natsuki.png 960w&quot;
+        sizes=&quot;(max-width: 690px) 100vw, 690px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&quot;övrig-markdown-syntax-hittar-ni-här-httpsgithubcomadam-pmarkdown-herewikimarkdown-cheatsheet&quot;&gt;&lt;a href=&quot;#%C3%B6vrig-markdown-syntax-hittar-ni-h%C3%A4r-httpsgithubcomadam-pmarkdown-herewikimarkdown-cheatsheet&quot; aria-label=&quot;övrig markdown syntax hittar ni här httpsgithubcomadam pmarkdown herewikimarkdown cheatsheet permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Övrig markdown syntax hittar ni här: &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&lt;/a&gt;&lt;/h5&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item><item><title><![CDATA[Mall för lektionslogg]]></title><description><![CDATA[Kopiera denna fil och ändra "Info" ovan till erat namn för att skapa ett nytt inlägg. Idag har jag jobbat med x och y... etc etc]]></description><link>https://sajber.me/gymnasiearbete//mall-for-lektionslogg</link><guid isPermaLink="false">https://sajber.me/gymnasiearbete//mall-for-lektionslogg</guid><category><![CDATA[kategorier här?]]></category><category><![CDATA[om ni vill]]></category><category><![CDATA[bottom text]]></category><pubDate>Sun, 30 Aug 2020 22:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Kopiera denna fil och ändra &quot;Info&quot; ovan till erat namn för att skapa ett nytt inlägg.&lt;/p&gt;
+&lt;p&gt;Idag har jag jobbat med x och y...&lt;/p&gt;
+&lt;p&gt;etc etc&lt;/p&gt;</content:encoded><author>lindgrenfabian@gmail.com</author></item></channel></rss>
