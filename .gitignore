@@ -52,3 +52,7 @@ jspm_packages
 
 # Bundle stats
 bundle-stats.json
+
+# Build Files
+public/
+.cache/

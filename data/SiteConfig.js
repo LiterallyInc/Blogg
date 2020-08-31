@@ -4,7 +4,7 @@ const config = {
   siteTitleAlt: 'Blogg för SajberRoyale',
   siteLogo: '/logos/logo-1024.png',
   siteUrl: 'https://sajber.me/gymnasiearbete',
-  pathPrefix: '',
+  pathPrefix: 'gymnasiearbete',
   siteDescription:
     'Blogg för SajberRoyale. Gymnasiearbete för Alexander P, Alfred, Oscar, Melwin, Fabian L och Samuel.',
   siteRss: '/rss.xml',
