@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../layout'
 import PostListing from '../components/PostListing'
 import SEO from '../components/SEO'
-import config from '../../data/SiteConfig'
+import config from '../../data/SiteConfig.js'
 
 const Index = ({ data }) => (
   <Layout>

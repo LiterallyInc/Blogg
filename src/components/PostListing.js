@@ -25,7 +25,7 @@ const PostListing = ({ postEdges }) => {
     <div className={styles.articleList}>
       {/* Your post list here. */
       postList.map(post => (
-        <Link to={post.path} key={post.title}>
+        <Link to={"gymnasiearbete/" + post.path} key={post.title}>
           <article className={styles.articleBox}>
             <div className={styles.right}>
               <h3>{post.title}</h3>

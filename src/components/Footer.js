@@ -14,7 +14,7 @@ const Footer = () => (
           GitHub
         </a>
         <a
-          href={config.siteUrl + config.siteRss}
+          href={config.siteUrl + config.pathPrefix +config.siteRss}
           target="_blank"
           rel="noopener noreferrer"
         >
