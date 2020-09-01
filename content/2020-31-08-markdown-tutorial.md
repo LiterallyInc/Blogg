@@ -40,3 +40,4 @@ Grunderna ni behöver kunna är:
 
 ##### Övrig markdown syntax hittar ni här: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+##### Editor för markdown hittar ni här: https://stackedit.io/app
