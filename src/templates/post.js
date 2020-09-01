@@ -44,12 +44,12 @@ export default ({ data, pageContext }) => {
         <nav>
           <ul className={styles.pagination}>
             <li>
-              <Link to={prevslug} rel="prev">
+              <Link to={"gymnasiearbete/" + prevslug} rel="prev">
                 ← {prevtitle}
               </Link>
             </li>
             <li>
-              <Link to={nextslug} rel="next">
+              <Link to={"gymnasiearbete/" + nextslug} rel="next">
                 {nexttitle}→
               </Link>
             </li>

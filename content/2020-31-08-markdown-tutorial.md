@@ -30,13 +30,13 @@ Grunderna ni behöver kunna är:
 
    
 
-2. **Bilder**: Gå till https://github.com/LiterallyInc/Gymnasiearbete/content/images och lägg till era bilder där med "Add file" knappen, sen länka till bilderna i er markdown såhär:
+2. **Bilder**: Gå till https://imgur.com/ och lägg upp era bilder där, högerklicka sedan på bilden för att kopiera länk och använd bilderna såhär: 
 
-   \!\[Image](../content/images/BILDNAMN)
+   \!\[Image](LÄNK)
 
-   Till exempel så kommer \!\[Image](../content/images/natsuki.png) bli till:
+   Till exempel så kommer \!\[Image](https://i.imgur.com/Q7ZV9RN.png) bli till:
 
-   ![Image](../content/images/natsuki.png)
+   ![Image](https://i.imgur.com/Q7ZV9RN.png)
 
 ##### Övrig markdown syntax hittar ni här: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 

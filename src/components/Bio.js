@@ -10,13 +10,8 @@ const Bio = ({ config, expanded }) => (
       alt={config.userName}
     />
     <p>
-      Written by <strong>{config.userName}</strong> who lives and works in San
-      Francisco building useful things.
+      Publicerat av <strong>{config.userName}</strong>, ett coolt företag som består av Alexander P, Alfred, Fabian L, Melwin, Oscar & Samuel.
       {` `}
-      <Follow
-        username={config.userTwitter}
-        options={{ count: expanded ? true : 'none' }}
-      />
     </p>
   </>
 )

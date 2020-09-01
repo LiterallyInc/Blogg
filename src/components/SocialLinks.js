@@ -20,7 +20,7 @@ import styles from './SocialLinks.module.scss'
 
 const SocialLinks = ({ postNode, postPath, mobile }) => {
   const post = postNode.frontmatter
-  const url = urljoin(config.siteUrl, config.pathPrefix, postPath)
+  const url = urljoin(config.siteUrl, "xd", config.pathPrefix, postPath)
   const iconSize = mobile ? 32 : 32
   const filter = count => (count > 0 ? count : '')
   const renderShareCount = count => (
