@@ -15,7 +15,7 @@ const Header = () => (
       <ul className={styles.mainNav}>
         <li>
           <Link to="gymnasiearbete/about" activeClassName={styles.activeNav}>
-            About
+            Om
           </Link>
         </li>
         <Categories activeClassName={styles.activeNav} />
