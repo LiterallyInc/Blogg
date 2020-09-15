@@ -1,0 +1,25 @@
+---
+date: 2020-09-15
+title: "Mall för lektionslogg"
+cover: ""
+categories: 
+    - Namn
+tags:
+    - kategorier här?
+    - om ni vill
+    - bottom text
+---
+
+
+Vad har du gjort sen förra loggboken?
+Jag har kollat igenom alla props som behövs göra och blivit mer jämn med det sättet vi mäter objekten i maja så att allting passar. 
+
+Vad har gått bra? Ge exempel på hur du löst problem!
+
+
+Vad har gått mindre bra? 
+Har inte jobbat super mycket idag och har varit väldigt seg, ska fokusera mer nästa lektion
+
+Vad ska du jobba med härnäst?
+Ska börja med att göra en brandsläckare och bli klar med projektplanen.
+
