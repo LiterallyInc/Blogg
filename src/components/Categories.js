@@ -19,7 +19,7 @@ const Categories = props => {
       {data.allMarkdownRemark.group.map(category => (
         <li key={category.fieldValue}>
           <Link
-            to={`gymnasiearbete/${_.kebabCase(category.fieldValue)}`}
+            to={`https://sajber.me/gymnasiearbete/${_.kebabCase(category.fieldValue)}`}
             key={category.fieldValue}
             activeClassName={props.activeClassName}
           >

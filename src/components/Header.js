@@ -7,14 +7,14 @@ import styles from './Header.module.scss'
 const Header = () => (
   <header>
     <h1>
-      <Link to="/gymnasiearbete" activeClassName={styles.activeNav}>
+      <Link to="https://sajber.me/gymnasiearbete" activeClassName={styles.activeNav}>
         {config.siteTitle}
       </Link>
     </h1>
     <nav>
       <ul className={styles.mainNav}>
         <li>
-          <Link to="gymnasiearbete/about" activeClassName={styles.activeNav}>
+          <Link to="https://sajber.me/gymnasiearbete/about" activeClassName={styles.activeNav}>
             Om
           </Link>
         </li>
